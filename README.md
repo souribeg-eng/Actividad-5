@@ -19,4 +19,4 @@ Walter Hugo Arboleda Mazo
 
 **Facultad de Minas**
 
-25 de Noviembre de 2025
+**25 de Noviembre de 2025**
