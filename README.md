@@ -15,8 +15,8 @@ Programación orientada a objetos
 ## Docente:
 Walter Hugo Arboleda Mazo
 
-Universidad Nacional de Colombia
+**Universidad Nacional de Colombia**
 
-Facultad de Minas
+**Facultad de Minas**
 
 25 de Noviembre de 2025
